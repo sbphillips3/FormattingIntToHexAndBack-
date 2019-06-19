@@ -1,0 +1,11 @@
+C:\Users\sphil\Desktop\Formatting\bin\Debug\netcoreapp2.2\Formatting.deps.json
+C:\Users\sphil\Desktop\Formatting\bin\Debug\netcoreapp2.2\Formatting.runtimeconfig.json
+C:\Users\sphil\Desktop\Formatting\bin\Debug\netcoreapp2.2\Formatting.runtimeconfig.dev.json
+C:\Users\sphil\Desktop\Formatting\bin\Debug\netcoreapp2.2\Formatting.dll
+C:\Users\sphil\Desktop\Formatting\bin\Debug\netcoreapp2.2\Formatting.pdb
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.csprojAssemblyReference.cache
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.AssemblyInfoInputs.cache
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.AssemblyInfo.cs
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.dll
+C:\Users\sphil\Desktop\Formatting\obj\Debug\netcoreapp2.2\Formatting.pdb
